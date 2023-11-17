@@ -1,5 +1,5 @@
 # wildrydes-site
-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito
+Source code of dummy wildrydes website
 
 ![Screenshot_20230203_110424](https://user-images.githubusercontent.com/99520246/216520405-83fefec9-20e2-4c01-b3e3-3c7e22a50ec4.png)
 ![Screenshot_20230203_110455](https://user-images.githubusercontent.com/99520246/216520421-37e18a5f-a23f-400d-8dff-00c2f6adbc2d.png)
